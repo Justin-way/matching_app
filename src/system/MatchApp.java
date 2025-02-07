@@ -1,10 +1,10 @@
 package system;
 
-import strategy.MatchStrategy;
-import user.User;
-
 import java.util.ArrayList;
 import java.util.List;
+
+import strategy.MatchStrategy;
+import user.User;
 
 public class MatchApp {
 
